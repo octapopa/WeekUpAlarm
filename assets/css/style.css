@@ -52,6 +52,12 @@ h1{
 	font-size: 30px;
 }
 
+.play-img img {
+	height: 80px;
+	width: auto;
+	padding: 10px;
+}
+
 /* footer */
 
 footer{
