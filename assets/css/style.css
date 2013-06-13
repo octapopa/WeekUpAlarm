@@ -1,9 +1,33 @@
+/* html reset */
+
+body{
+	background-image: url(../img/background.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+/*contet */
+
+h1{
+	color: #000e;
+}
+
+.description{
+	color: #000;
+	text-shadow: 3px 3px 10px #ffffff;
+    filter: dropshadow(color=#ffffff, offx=3, offy=3);
+}
+
+.main-content{
+	margin-bottom: 20px;
+}
+
+/* footer */
+
 footer{
-	text-align: right;
 	background-color: #1b1b1b;
 	height: 50px;
-	color: #ddd;
-	font-size: 16px;
+	text-align: right;
 	font-weight: bold;
 	padding: 10px;
 }
