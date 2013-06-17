@@ -39,14 +39,14 @@ color:#412A22;
 }
 
 .description{
-	padding: 100px 40px;
+	padding: 100px 40px ;
 	background-image: url(../img/iphone4.png);
 	background-repeat: no-repeat;
-	background-size: 385px 575px;
-	width: 305px;
+	background-size: 300px 575px;
+	width: 230px;
 	height: 375px;
 	color: #412A22;
-	text-align: left;
+	text-align: center;
 }
 
 .description p {

@@ -39,15 +39,20 @@ color:#412A22;
 }
 
 .description{
-padding-top:270px;
-padding-left:70px;
-background:url(../img/iphone4.png);
-width:350px;
-height:270px;
+	padding: 100px 40px ;
+	background-image: url(../img/iphone4.png);
+	background-repeat: no-repeat;
+	background-size: 300px 575px;
+	width: 230px;
+	height: 375px;
 	color: #412A22;
-	text-align: left;
-	}
+	text-align: center;
+}
 
+.description p {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 22px;
+}
 .main-content{
 	margin-bottom: 20px;
 }
@@ -69,6 +74,19 @@ height:270px;
 	padding: 10px;
 }
 
+/* header */
+
+header.header{
+	background-color: #1b1b1b;
+	font-weight: bold;
+	padding: 10px;
+	margin-bottom: 15px;
+}
+
+.header a {
+	color: #fff;
+	font-size: 28px;
+}
 
 /* footer */
 
