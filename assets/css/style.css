@@ -1,26 +1,23 @@
 /* html reset */
 
-
-
-.file
-{background-image :url(../img/paper.png);
-padding:30px 0px 0 50px;
-}
-
 body{
 	background-image: url(../img/background.jpg);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
 
-
-
-
 /*contet */
+.nav
+{padding-top:0px;
+font-size:20px;
+display:inline-block;
+
+}
 
 h1{
 	color: #fff;
 }
+
 .logo a{
 	text-decoration: none;
 	color: #fff;
@@ -36,23 +33,24 @@ h1{
 }
 
 .main-content h1{
+
 	text-align: center;
+color:#412A22;
 }
 
 .description{
-	color: #000;
-<<<<<<< HEAD
-=======
-	text-align: justify;
->>>>>>> 4909108ae2bee4e14ac976f75c68eafed0b58df1
-	text-shadow: 3px 3px 10px #ffffff;
-    filter: dropshadow(color=#ffffff, offx=3, offy=3);
-}
+padding-top:270px;
+padding-left:70px;
+background:url(../img/iphone4.png);
+width:350px;
+height:270px;
+	color: #412A22;
+	text-align: left;
+	}
 
 .main-content{
 	margin-bottom: 20px;
 }
-
 
 .action {
 	padding: 20px 0;
@@ -64,6 +62,13 @@ h1{
 	padding: 10px 50px;
 	font-size: 30px;
 }
+
+.play-img img {
+	height: 80px;
+	width: auto;
+	padding: 10px;
+}
+
 
 /* footer */
 
