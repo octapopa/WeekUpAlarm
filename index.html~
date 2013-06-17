@@ -54,7 +54,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="assets/img/examples/slide-02.jpg" alt="">
+          <img src="assets/img/slide-02.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
                <h1>Cea mai tare alarma de pana acum!</h1>
@@ -73,7 +73,7 @@
       <!-- Jumbotron -->
       <div class="jumbotron row main-content">
         <div class="span7">
-          <iframe width="535" height="301" src="http://www.youtube.com/embed/erhRGMHAf4o?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+          <img src="assets/img/galaxy.png" alt="Smiley face" height="900" width="800">
           <div class="span7 play-img">
             <a href="#">
               <img src="assets/img/playapple.png">
