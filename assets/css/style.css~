@@ -39,6 +39,7 @@ color:#412A22;
 }
 
 .description{
+
 	padding: 100px 40px ;
 	background-image: url(../img/iphone4.png);
 	background-repeat: no-repeat;
@@ -48,6 +49,8 @@ color:#412A22;
 	color: #412A22;
 	text-align: center;
 }
+
+
 
 .description p {
 	font-family: Helvetica, Arial, sans-serif;
@@ -74,6 +77,7 @@ color:#412A22;
 	padding: 10px;
 }
 
+
 /* header */
 
 header.header{
@@ -87,6 +91,7 @@ header.header{
 	color: #fff;
 	font-size: 28px;
 }
+
 
 /* footer */
 
