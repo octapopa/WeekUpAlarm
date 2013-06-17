@@ -79,7 +79,11 @@
       <!-- Jumbotron -->
       <div class="jumbotron row main-content">
         <div class="span7">
+<<<<<<< HEAD
           <img src="assets/img/galaxy.png" alt="Smiley face" height="900" width="800">
+=======
+          <iframe width="535" height="301" src="http://www.youtube.com/embed/erhRGMHAf4o?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+>>>>>>> 51210eca14583225f6e085380215beefe73ba2b8
           <div class="span7 play-img">
             <a href="#">
               <img src="assets/img/playapple.png">
@@ -98,6 +102,7 @@
           </div>
         </div>
       </div>
+<<<<<<< HEAD
 
     </div> <!-- /container -->
 
@@ -126,6 +131,14 @@
         })
       }(window.jQuery)
     </script>
+=======
+
+    </div> <!-- /container -->
+
+      <footer>
+        <p>&copy; Grabovski & Popa</p>
+      </footer>
+>>>>>>> 51210eca14583225f6e085380215beefe73ba2b8
 
     <script type="text/javascript" src="assets/js/vendor/jquery.js"></script>
     <script src="js/vendor/modernizr.js"></script>

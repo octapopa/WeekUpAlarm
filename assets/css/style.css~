@@ -18,6 +18,10 @@ h1{
 	color: #fff;
 }
 
+h1{
+	color: #fff;
+}
+
 .logo a{
 	text-decoration: none;
 	color: #fff;
@@ -77,6 +81,7 @@ color:#412A22;
 	padding: 10px;
 }
 
+<<<<<<< HEAD
 
 /* header */
 
@@ -93,6 +98,8 @@ header.header{
 }
 
 
+=======
+>>>>>>> 51210eca14583225f6e085380215beefe73ba2b8
 /* footer */
 
 footer{
